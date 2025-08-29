@@ -1,0 +1,20 @@
+<h1 id="color1">color1</h1>
+    <h1 id="color2">color2</h1>
+    <h1 id="color3">color3</h1>
+    <h1 id="rgb">color4</h1>
+    <h1 id="hex">color5</h1>
+    h1# color1 {
+         color:pink;
+    }
+    h1# color2 {
+        color:gray;
+    }
+    h1# color3 {
+        color:yellow;
+    }
+    h1# rgb {
+        color:rgb(red, green, blue);
+    }
+    h1# hex {
+        color:fofofof;
+    }
